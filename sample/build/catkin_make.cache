@@ -1,2 +1,0 @@
-
--DCATKIN_DEVEL_PREFIX=/home/samet/workspace/sample/devel -DCMAKE_INSTALL_PREFIX=/home/samet/workspace/sample/install -G Unix Makefiles
