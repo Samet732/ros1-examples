@@ -1,0 +1,4 @@
+uint64 distance_to_front_obj
+uint64 distance_to_left_obj
+uint64 distance_to_right_obj
+uint64 distance_to_back_obj
